@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButtonLogin">#31d2cc</color>
+    <color name="textColorButtonLogin">#FFFFFF</color>
+    <color name="errorMessage">#FF0000</color>
+</resources>

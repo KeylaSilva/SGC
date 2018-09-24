@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SGC</string>
+
+    <string name="error_password_empty">O preenchimento do campo \'Senha\' é obrigatório.</string>
+    <string name="error_login_empty">O preenchimento do campo \'E-mail\' é obrigatório.</string>
+    <string name="error_login_failed">O usuário ou senha está incorreto.</string>
+    <string name="recover_password">Esqueceu sua senha?</string>
+    <string name="create_account">Não possui cadastro? Cadastre-se</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_curses">Cursos</string>
+    <string name="title_registration">Matrículas</string>
+    <string name="title_avaliations">Avaliações</string>
+    <string name="title_grades">Notas</string>
+    <string name="title_report">Boletim</string>
+    <string name="title_profile">Perfil</string>
+
+</resources>
